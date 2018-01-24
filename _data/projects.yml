@@ -19,14 +19,14 @@
   last_updated: null
   
 - name: "DemocracyLab"
-  description: "DemocracyLab is creating an online hub for civic innovation that that will engage stakeholders by using marketplace dynamics to allocate effort, resources, and attention. The result will be an increase in participation, collaboration and transparency within the civic tech movement, and the evolution of new civic innovations capable of addressing society’s significant challenges. We're hard at work powering towards an imminent launch. Our team of super-volunteers has been designing and developing our platform for an early 2018 release."
-  skills_needed: 
+  description: "DemocracyLab is an open source platform connecting stakeholders in civic tech. Our initial release is targeted for 7/4/2018, and will match skilled volunteers with projects that need their help."
+  skills_needed: Check our Trello boards: https://trello.com/b/jT9Zkrky/sprint-board-kanban
   project_lead: [Mark Frischmuth]
-  code_url: https://github.com/DemocracyLab/CivicTechExchange/tree/ssgs_hackathon_2017
+  code_url: https://github.com/DemocracyLab/CivicTechExchange
   link_url: https://www.democracylab.org 
   slack_channel: https://democracylab-org.slack.com/
   status: "live/ongoing"
-  last_updated: null
+  last_updated: 1/23/2018
   
 - name: "Washington Legislative Services Redesign"
   description: "An initiative to make it easier to track current legislation by restructuring WA Legislative Services' data and using their API to create a system to pull data and present it in a more user-friendly way."
